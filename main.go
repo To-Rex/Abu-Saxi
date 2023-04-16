@@ -17,7 +17,8 @@ import (
 	"golang.org/x/crypto/bcrypt"
 )
 
-const uri = "mongodb+srv://root:0000@cluster0.kncismv.mongodb.net/?retryWrites=true&w=majority"
+//const uri = "mongodb+srv://root:0000@cluster0.kncismv.mongodb.net/?retryWrites=true&w=majority"
+const uri = "mongodb+srv://To-Rex:0000@abu-saxi.f3lsbpz.mongodb.net/?retryWrites=true&w=majority"
 //const uri = "mongodb+srv://omborxona:root@cluster0.oskxrxp.mongodb.net/?retryWrites=true&w=majority"
 
 type User struct {
